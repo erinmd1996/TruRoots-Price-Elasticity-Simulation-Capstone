@@ -1,7 +1,5 @@
-statsmodels==0.13.5
 streamlit==1.12.0
 pandas==1.4.2
 numpy>=1.23
 matplotlib==3.5.1
 seaborn==0.11.2
-
