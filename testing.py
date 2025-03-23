@@ -172,6 +172,24 @@ plt.legend()
 st.pyplot(plt)
 
 
+# In[3]:
+
+
+get_ipython().system('pip install --upgrade numpy')
+
+
+# In[5]:
+
+
+get_ipython().system('pip install --force-reinstall matplotlib pandas seaborn')
+
+
+# In[3]:
+
+
+get_ipython().system('pip install "numpy<2" --force-reinstall')
+
+
 # In[ ]:
 
 
