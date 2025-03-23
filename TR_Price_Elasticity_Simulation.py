@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[9]:
+
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -156,3 +162,16 @@ plt.ylabel("Predicted Units Sold")
 plt.title("Predicted Units Sold vs. Average Unit Price")
 plt.legend()
 st.pyplot(plt)
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
